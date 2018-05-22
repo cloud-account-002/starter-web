@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    1111 -2222-3333
 
 # THANKS
 
