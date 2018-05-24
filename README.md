@@ -17,8 +17,4 @@ Deployment description
 ## Copyright
 cccc
 vvvvv
-<<<<<<< Updated upstream
-stashed
-=======
 after stash
->>>>>>> Stashed changes
